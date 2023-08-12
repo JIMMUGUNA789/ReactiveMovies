@@ -1,0 +1,14 @@
+
+.headerText{
+    font-size: 40px;
+}
+p{
+    width: 180px;
+    position: relative;
+    padding-left: 20px;
+}
+.sidebarIcon{
+
+    position: absolute;
+    left: 0;
+}
