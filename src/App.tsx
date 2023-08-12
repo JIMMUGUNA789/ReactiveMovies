@@ -14,6 +14,7 @@ function App() {
         <MainArea>
         <SiteTitle></SiteTitle>
 
+
         </MainArea>
 
       </div>

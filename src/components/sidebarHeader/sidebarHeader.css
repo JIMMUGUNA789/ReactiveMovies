@@ -1,14 +1,22 @@
 
-.headerText{
-    font-size: 40px;
-}
+
 p{
     width: 180px;
     position: relative;
     padding-left: 20px;
 }
+.headerParagraph:hover{
+    /* background-color: #1a1a1a; */
+    cursor: pointer;
+    font-size: 21px;
+    color: #1a1a1a;
+}
 .sidebarIcon{
 
     position: absolute;
     left: 0;
+    font-size: larger;
+}
+span{
+    padding-left: 15px;
 }
