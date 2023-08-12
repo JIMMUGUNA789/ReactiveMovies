@@ -2,7 +2,6 @@
 import './App.css'
 import Sidebar from './components/sidebar'
 import MainArea from './components/mainArea'
-import SiteTitle from './components/SiteTitle'
 
 function App() {
 
@@ -12,7 +11,6 @@ function App() {
       <div className='row'>
         <Sidebar></Sidebar>
         <MainArea>
-        <SiteTitle></SiteTitle>
 
 
         </MainArea>

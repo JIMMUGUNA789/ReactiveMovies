@@ -1,4 +1,7 @@
 .mainArea{
-    background-color: gray;
+    background-color: black;
     height: 1000px;
+}
+.mainAreaSeparator{
+    border: 2px solid white;
 }

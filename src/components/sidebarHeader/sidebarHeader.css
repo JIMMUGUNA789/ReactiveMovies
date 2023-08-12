@@ -3,7 +3,7 @@
 p{
     width: 180px;
     position: relative;
-    padding-left: 20px;
+    padding-left: 15px;
 }
 .headerParagraph:hover{
     /* background-color: #1a1a1a; */
@@ -14,9 +14,9 @@ p{
 .sidebarIcon{
 
     position: absolute;
-    left: 0;
+    left: 1;
     font-size: larger;
 }
 span{
-    padding-left: 15px;
+    padding-left: 25px;
 }
