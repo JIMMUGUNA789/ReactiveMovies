@@ -35,7 +35,7 @@ const TopMenu = () => {
                 </a>
               </li>
             </ul>
-            <BsSunFill className='topMenuIcon'/>
+            <BsSunFill className='topMenuIcon' color="grey" size="25" />
 
             <span className="navbar-text">
               Dark Theme

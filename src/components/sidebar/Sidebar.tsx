@@ -4,11 +4,9 @@ import "./sidebar.css";
 import SideBarHeader from "../sidebarHeader";
 import SidebarSectionHeader from "../sidebarSectionHeader";
 // icons
-import { AiFillHome } from "react-icons/ai";
-import { AiFillCompass } from "react-icons/ai";
-import { AiFillClockCircle } from "react-icons/ai";
+import { AiFillHome, AiFillCompass, AiFillClockCircle, AiFillStar } from "react-icons/ai";
+
 import { PiArrowsCounterClockwiseBold } from "react-icons/pi";
-import { AiFillStar } from "react-icons/ai";
 const Sidebar = () => {
   return (
     <div className="col-lg-2  sidebar">
